@@ -1,4 +1,3 @@
-
 a {
   text-decoration: none;
   color: white;
@@ -6,16 +5,16 @@ a {
 
 a:hover,
 a:active {
-  color: lightgrey;
+  color: lightgray;
 }
 
-.navigation-items{
+.navigation-items {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-.nav-caption{
+.nav-caption {
   display: inline-block;
   padding-left: 6px;
 }
